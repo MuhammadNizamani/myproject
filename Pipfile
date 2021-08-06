@@ -16,5 +16,5 @@ django-heroku = "*"
 django-cors-headers = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8.5"
 © 2021 GitHub, Inc.
